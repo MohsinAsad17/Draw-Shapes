@@ -1,7 +1,5 @@
 # Draw-Shapes
 
-# Draw-Shapes
-
 A drawing application built with Java/Swing that replicates core features of Microsoft Paint. Supports drawing geometric shapes, freehand curves, and applying fills — with a branching undo/redo history system.
 
 > Built using [Gemini CLI](https://github.com/google-gemini/gemini-cli).

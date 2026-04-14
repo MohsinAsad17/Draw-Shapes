@@ -18,13 +18,6 @@ A drawing application built with Java/Swing that replicates core features of Mic
 
 ---
 
-## Screenshots
-
-<!-- Add a screenshot or GIF here -->
-<!-- ![Draw-Shapes demo](docs/screenshot.png) -->
-
----
-
 ## Getting Started
 
 ### Prerequisites
